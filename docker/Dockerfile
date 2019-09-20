@@ -1,4 +1,4 @@
-FROM debian/buster
+FROM debian:buster
 
 RUN echo "IT WORKS"
 
